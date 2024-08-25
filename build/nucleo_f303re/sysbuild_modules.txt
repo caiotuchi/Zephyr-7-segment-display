@@ -1,0 +1,1 @@
+"mcuboot":"C:/Users/caiog/zephyr-workspace/external/bootloader/mcuboot":"C:/Users/caiog/zephyr-workspace/external/bootloader/mcuboot/boot/zephyr/sysbuild"
